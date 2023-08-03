@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonWeng&show=reviews&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonWeng)](https://github.com/anuraghazra/github-readme-stats)
-
