@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonWeng&show=reviews&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonWeng&show=reviews&show_icons=true&theme=dracula&rank_icon=github&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
